@@ -1,0 +1,11 @@
+Silakan tambahkan gambar-gambar berikut untuk website portfolio:
+
+1. profile.jpg - Foto profil (ukuran minimal 300x300px)
+2. project1.jpg - Gambar project 1 (ukuran minimal 400x300px)
+3. project2.jpg - Gambar project 2  
+4. project3.jpg - Gambar project 3
+5. project4.jpg - Gambar project 4
+6. project5.jpg - Gambar project 5
+7. project6.jpg - Gambar project 6
+
+Untuk video background, tambahkan file background.mp4 di folder assets/video/
